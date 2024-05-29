@@ -128,7 +128,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: rgba(236, 64, 122, 0.9);
   height: 60px;
 }
 
@@ -419,7 +419,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 191, 191, 0.91);
+  background: rgba(236, 64, 122, 0.91);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -986,7 +986,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(255, 191, 191, 0.8);
+  background: rgba(236, 64, 122, 0.7);
 }
 
 .testimonials .section-header {
