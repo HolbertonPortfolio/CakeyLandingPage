@@ -692,7 +692,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: rgb(236, 64, 122);
   margin-bottom: 15px;
 }
 
@@ -1491,7 +1491,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #010351;
+  background: rgb(236, 64, 122);
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
